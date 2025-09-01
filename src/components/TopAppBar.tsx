@@ -14,7 +14,7 @@ export default function TopAppBar() {
             size="large"
             aria-label="github"
             color="inherit"
-            href="https://github.com/sikepuri-hanyu/hanzi-workbook-creator"
+            href="https://github.com/chvmvd/hanzi-workbook-creator"
           >
             <GitHubIcon />
           </IconButton>
